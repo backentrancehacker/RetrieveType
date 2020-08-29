@@ -1,0 +1,12 @@
+{
+  "name": "retrieve-type",
+  "version": "1.0.0",
+  "description": "Easily get the type of an object in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["type"],
+  "author": "AdCharity",
+  "license": "ISC"
+}
